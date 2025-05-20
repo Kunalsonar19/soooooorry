@@ -209,10 +209,14 @@ button {
     .btn {
         width: 100%;
         text-align: center;
-        font-size: .8em;
+        font-size: 0.8em;
     }
     .sorryMessage {
         font-size: 1rem;
         text-align: center;
+    }
+    .Happpiii {
+        font-size: 18px;
+        margin-top: 15px;
     }
 }
