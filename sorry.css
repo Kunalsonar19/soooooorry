@@ -207,7 +207,7 @@ button {
         text-align: center;
     }
     .btn {
-        width: 100%;
+        width: auto;
         text-align: center;
         font-size: 0.8em;
     }
