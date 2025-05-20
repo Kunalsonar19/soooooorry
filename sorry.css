@@ -207,7 +207,7 @@ button {
         text-align: center;
     }
     .btn {
-        width: auto;
+        width: 100%;
         text-align: center;
         font-size: 0.8em;
     }
@@ -218,5 +218,8 @@ button {
     .Happpiii {
         font-size: 18px;
         margin-top: 15px;
+    }
+    #maafKiya{
+        margin-bottom: 50px;
     }
 }
